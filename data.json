@@ -2,7 +2,7 @@
     "projects": [
         {
             "id": 0,
-            "project_name": "",
+            "project_name": "Data Pagination and Filtering",
             "description": "",
             "technologies": [],
             "live_link": "",
@@ -11,7 +11,7 @@
         },
         {
             "id": 1,
-            "project_name": "",
+            "project_name": "Interactive Registration Form",
             "description": "",
             "technologies": [],
             "live_link": "",
@@ -20,7 +20,7 @@
         },
         {
             "id": 2,
-            "project_name": "",
+            "project_name": "Public API",
             "description": "",
             "technologies": [],
             "live_link": "",
