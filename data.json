@@ -3,8 +3,12 @@
         {
             "id": 0,
             "project_name": "Data Pagination and Filtering",
-            "description": "",
-            "technologies": [],
+            "description": "Displays up to nine students per page and updates with search bar input.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
             "live_link": "",
             "github_link": "",
             "image_urls": []
@@ -12,8 +16,12 @@
         {
             "id": 1,
             "project_name": "Interactive Registration Form",
-            "description": "",
-            "technologies": [],
+            "description": "Uses JavaScript to enhance an interactive registration form for a fictional Full Stack conference",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
             "live_link": "",
             "github_link": "",
             "image_urls": []
@@ -21,8 +29,13 @@
         {
             "id": 2,
             "project_name": "Public API",
-            "description": "",
-            "technologies": [],
+            "description": "Fetches data from an API and display it on a webpage.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "API"
+            ],
             "live_link": "",
             "github_link": "",
             "image_urls": []
