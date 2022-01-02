@@ -1,9 +1,7 @@
 const express = require('express');
 const app = express();
+
 const { projects } = require('./data.json');
-
-
-
 
 // set view engine
 app.set('view engine', 'pug');
