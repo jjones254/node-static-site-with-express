@@ -9,9 +9,9 @@
                 "CSS",
                 "JavaScript"
             ],
-            "live_link": "",
-            "github_link": "",
-            "image_urls": []
+            "live_link": "https://jjones254.github.io/data-pagination-and-filtering/",
+            "github_link": "https://github.com/jjones254/data-pagination-and-filtering",
+            "image_urls": ["/static/images/pages-main.png", "/static/images/pages-01.png"]
         },
         {
             "id": 1,
