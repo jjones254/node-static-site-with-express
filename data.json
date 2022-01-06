@@ -11,7 +11,8 @@
             ],
             "live_link": "https://jjones254.github.io/data-pagination-and-filtering/",
             "github_link": "https://github.com/jjones254/data-pagination-and-filtering",
-            "image_urls": ["/static/images/pages-main.png", "/static/images/pages-01.png"]
+            "image_urls": ["/static/images/pages-01.png"],
+            "preview_img": "/static/images/pages-main.png"
         },
         {
             "id": 1,
@@ -24,7 +25,8 @@
             ],
             "live_link": "https://jjones254.github.io/interactive-registration-form/",
             "github_link": "https://github.com/jjones254/interactive-registration-form",
-            "image_urls": ["/static/images/form-main.png", "/static/images/form-01.png", "/static/images/form-02.png"]
+            "image_urls": ["/static/images/form-01.png", "/static/images/form-02.png"],
+            "preview_img": "/static/images/form-main.png"
         },
         {
             "id": 2,
@@ -38,7 +40,8 @@
             ],
             "live_link": "https://jjones254.github.io/public-api/",
             "github_link": "https://github.com/jjones254/public-api",
-            "image_urls": ["/static/images/public-api-main.png", "/static/images/public-api-01.png", "/static/images/public-api-02.png"]
+            "image_urls": ["/static/images/public-api-01.png", "/static/images/public-api-02.png"],
+            "preview_img": "/static/images/public-api-main.png"
         }
     ]
 }
