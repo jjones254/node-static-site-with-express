@@ -11,15 +11,15 @@ router.get('/about', (req, res) => {
     res.render('about');
 });
 
-router.get('/project/:id', (req, res) => {
+router.get('/project/:id', (req, res, next) => {
     const projectId = req.params.id;
     const project = projects.find( ({ id }) => id === +projectId );
 
     if (project) {
         res.render('project', { project });
-      } else {
-        res.sendStatus(404);
-      }
+    } else {
+        next();
+    }
 });
 
 module.exports = router;

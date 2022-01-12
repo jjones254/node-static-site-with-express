@@ -11,3 +11,19 @@ app.use(mainRoutes);
 app.listen(3000, () => {
     console.log("Listening on localhost:3000");
 });
+
+app.use((req, res, next) => {
+    const err = new Error('err');
+    err.status = 404;
+    err.message = 'Looks like that page does not exist.';
+    next(err);
+});
+
+app.use((err, req, res, next) => {
+    res.status(err.status || 500);
+    res.send(err.message);
+    console.log(err.status);
+    console.log(err.message);
+});
+
+module.exports = app;
