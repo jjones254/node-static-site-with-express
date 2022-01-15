@@ -2,6 +2,34 @@
     "projects": [
         {
             "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "Displays a randomly selected quote each time the user clicks a button.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://jjones254.github.io/random-quote-generator/",
+            "github_link": "https://github.com/jjones254/random-quote-generator",
+            "image_urls": ["/static/images/quotes-01.png"],
+            "preview_img": "/static/images/quotes-main.png"
+        },
+        {
+            "id": 1,
+            "project_name": "Word Guessing Game",
+            "description": "Players will click letters from an onscreen keyboard to try to guess a random phrase.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://jjones254.github.io/word-guessing-game/",
+            "github_link": "https://github.com/jjones254/word-guessing-game",
+            "image_urls": ["/static/images/guess-01.png", "/static/images/guess-02.png"],
+            "preview_img": "/static/images/guess-main.png"
+        },
+        {
+            "id": 2,
             "project_name": "Data Pagination and Filtering",
             "description": "Displays up to nine students per page and updates with search bar input.",
             "technologies": [
@@ -15,7 +43,7 @@
             "preview_img": "/static/images/pages-main.png"
         },
         {
-            "id": 1,
+            "id": 3,
             "project_name": "Interactive Registration Form",
             "description": "Uses JavaScript to enhance an interactive registration form for a fictional Full Stack conference",
             "technologies": [
@@ -29,7 +57,7 @@
             "preview_img": "/static/images/form-main.png"
         },
         {
-            "id": 2,
+            "id": 4,
             "project_name": "Public API",
             "description": "Fetches data from an API and display it on a webpage.",
             "technologies": [
