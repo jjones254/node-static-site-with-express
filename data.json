@@ -17,7 +17,7 @@
         {
             "id": 1,
             "project_name": "Word Guessing Game",
-            "description": "Players will click letters from an onscreen keyboard to try to guess a random phrase.",
+            "description": "Players will click letters from an onscreen keyboard to guess a random phrase.",
             "technologies": [
                 "HTML",
                 "CSS",
