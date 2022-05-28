@@ -59,7 +59,7 @@
         {
             "id": 4,
             "project_name": "Public API",
-            "description": "Fetches data from an API and displays it on a webpage.",
+            "description": "Fetches data from an API and displays it on the webpage.",
             "technologies": [
                 "HTML",
                 "CSS",
