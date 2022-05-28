@@ -58,6 +58,17 @@ a {
   text-decoration: none;
 }
 
+a.btn-link:hover {
+  border-color: #fefefe;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.24);
+}
+
+nav a:hover {
+  border-radius: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.24);
+  padding: 4px;
+}
+
 .wrapper {
   width: 100%;
   min-width: 320px;
@@ -219,6 +230,14 @@ nav a span {
   background: #fefefe;
 }
 
+.header button:hover {
+  transform: rotate(90deg);
+}
+
+.dev-intro-box a:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.24);
+  color: #fefefe;
+}
 
 /*
   Home page styles
@@ -269,6 +288,9 @@ nav a span {
   box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
 }
 
+img.thumbnail:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.24);
+}
 
 /* 
   About and project pages styles 
@@ -383,7 +405,7 @@ div.hello-world-title-image h1 {
   margin: auto 0 5px 0;
   padding: 0.85em 1em;
   background-color: #333;
-  border: 1px solid transparent;
+  border: 4px solid transparent;
   border-radius: 50px;
 }
 
