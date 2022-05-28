@@ -225,7 +225,7 @@ nav a span {
 */
 .portfolio-intro {
   max-width: 1200px;
-  padding: 40px 50px 30px;
+  padding: 40px 50px 20px;
 }
 
 .portfolio-intro h1 {
@@ -240,6 +240,11 @@ nav a span {
   margin: 0 auto;
   padding-bottom: 40px;
   border-bottom: 1px solid #eaeaea;
+}
+
+.projects-box {
+  padding-top: 20px;
+  padding-bottom: 40px;
 }
 
 .projects-box h5 {
